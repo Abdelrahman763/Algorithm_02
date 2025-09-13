@@ -3,7 +3,7 @@ The course focuses on improving problem-solving skills using C++, covering advan
 
  Topics Covered
 
-Recursion and Backtracking
+Clean Code Techniques
 
 Sorting and Searching Algorithms
 
