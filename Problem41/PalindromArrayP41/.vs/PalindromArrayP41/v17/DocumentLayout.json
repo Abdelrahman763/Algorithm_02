@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Abu-Hadhoud\\Level05\\Problem41\\PalindromArrayP41\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D346A81-CCE7-440E-AC25-A97799471C22}|PalindromArrayP41\\PalindromArrayP41.vcxproj|G:\\Abu-Hadhoud\\Level05\\Problem41\\PalindromArrayP41\\PalindromArrayP41\\PalindromArrayP41.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8D346A81-CCE7-440E-AC25-A97799471C22}|PalindromArrayP41\\PalindromArrayP41.vcxproj|solutionrelative:PalindromArrayP41\\PalindromArrayP41.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PalindromArrayP41.cpp",
+              "DocumentMoniker": "G:\\Abu-Hadhoud\\Level05\\Problem41\\PalindromArrayP41\\PalindromArrayP41\\PalindromArrayP41.cpp",
+              "RelativeDocumentMoniker": "PalindromArrayP41\\PalindromArrayP41.cpp",
+              "ToolTip": "G:\\Abu-Hadhoud\\Level05\\Problem41\\PalindromArrayP41\\PalindromArrayP41\\PalindromArrayP41.cpp",
+              "RelativeToolTip": "PalindromArrayP41\\PalindromArrayP41.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-05T22:07:14.139Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

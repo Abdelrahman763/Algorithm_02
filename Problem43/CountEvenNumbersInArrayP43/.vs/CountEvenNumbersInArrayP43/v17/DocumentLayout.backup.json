@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Abu-Hadhoud\\Level05\\Problem43\\CountEvenNumbersInArrayP43\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84A67A16-E0DE-4722-8F76-A199A432601E}|CountEvenNumbersInArrayP43\\CountEvenNumbersInArrayP43.vcxproj|G:\\Abu-Hadhoud\\Level05\\Problem43\\CountEvenNumbersInArrayP43\\CountEvenNumbersInArrayP43\\CountEvenNumbersInArrayP43.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{84A67A16-E0DE-4722-8F76-A199A432601E}|CountEvenNumbersInArrayP43\\CountEvenNumbersInArrayP43.vcxproj|solutionrelative:CountEvenNumbersInArrayP43\\CountEvenNumbersInArrayP43.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CountEvenNumbersInArrayP43.cpp",
+              "DocumentMoniker": "G:\\Abu-Hadhoud\\Level05\\Problem43\\CountEvenNumbersInArrayP43\\CountEvenNumbersInArrayP43\\CountEvenNumbersInArrayP43.cpp",
+              "RelativeDocumentMoniker": "CountEvenNumbersInArrayP43\\CountEvenNumbersInArrayP43.cpp",
+              "ToolTip": "G:\\Abu-Hadhoud\\Level05\\Problem43\\CountEvenNumbersInArrayP43\\CountEvenNumbersInArrayP43\\CountEvenNumbersInArrayP43.cpp*",
+              "RelativeToolTip": "CountEvenNumbersInArrayP43\\CountEvenNumbersInArrayP43.cpp*",
+              "ViewState": "AgIAADAAAAAAAAAAAAAswDMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-05T23:01:44.994Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

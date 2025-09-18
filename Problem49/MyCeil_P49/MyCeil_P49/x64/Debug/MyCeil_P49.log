@@ -1,0 +1,3 @@
+﻿  MyCeil_P49.cpp
+G:\Abu-Hadhoud\Level05\Problem49\MyCeil_P49\MyCeil_P49\MyCeil_P49.cpp(31,16): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  MyCeil_P49.vcxproj -> G:\Abu-Hadhoud\Level05\Problem49\MyCeil_P49\x64\Debug\MyCeil_P49.exe

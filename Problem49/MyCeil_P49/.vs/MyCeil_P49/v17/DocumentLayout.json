@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Abu-Hadhoud\\Level05\\Problem49\\MyCeil_P49\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE28A276-17CE-4ED6-A65A-3587E7B5085F}|MyCeil_P49\\MyCeil_P49.vcxproj|G:\\Abu-Hadhoud\\Level05\\Problem49\\MyCeil_P49\\MyCeil_P49\\MyCeil_P49.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AE28A276-17CE-4ED6-A65A-3587E7B5085F}|MyCeil_P49\\MyCeil_P49.vcxproj|solutionrelative:MyCeil_P49\\MyCeil_P49.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MyCeil_P49.cpp",
+              "DocumentMoniker": "G:\\Abu-Hadhoud\\Level05\\Problem49\\MyCeil_P49\\MyCeil_P49\\MyCeil_P49.cpp",
+              "RelativeDocumentMoniker": "MyCeil_P49\\MyCeil_P49.cpp",
+              "ToolTip": "G:\\Abu-Hadhoud\\Level05\\Problem49\\MyCeil_P49\\MyCeil_P49\\MyCeil_P49.cpp",
+              "RelativeToolTip": "MyCeil_P49\\MyCeil_P49.cpp",
+              "ViewState": "AgIAABwAAAAAAAAAAAAswDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-13T21:32:32.926Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+﻿  MySqrt_P50.cpp
+G:\Abu-Hadhoud\Level05\Problem50\MySqrt_P50\MySqrt_P50\MySqrt_P50.cpp(12,15): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  MySqrt_P50.vcxproj -> G:\Abu-Hadhoud\Level05\Problem50\MySqrt_P50\x64\Debug\MySqrt_P50.exe

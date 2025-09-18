@@ -1,0 +1,3 @@
+﻿  CopyPrimeNumbersToAnewArrayP39.cpp
+G:\Abu-Hadhoud\Level05\Problem39\CopyPrimeNumbersToAnewArrayP39\CopyPrimeNumbersToAnewArrayP39\CopyPrimeNumbersToAnewArrayP39.cpp(35,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  CopyPrimeNumbersToAnewArrayP39.vcxproj -> G:\Abu-Hadhoud\Level05\Problem39\CopyPrimeNumbersToAnewArrayP39\x64\Debug\CopyPrimeNumbersToAnewArrayP39.exe
