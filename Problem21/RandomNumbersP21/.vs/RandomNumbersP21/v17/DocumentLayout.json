@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Abu-Hadhoud\\Level05\\Problem21\\RandomNumbersP21\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8FBC10F9-A079-4136-98A1-F52CE0652B1B}|RandomNumbersP21\\RandomNumbersP21.vcxproj|G:\\Abu-Hadhoud\\Level05\\Problem21\\RandomNumbersP21\\RandomNumbersP21\\RandomNumbersP21.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8FBC10F9-A079-4136-98A1-F52CE0652B1B}|RandomNumbersP21\\RandomNumbersP21.vcxproj|solutionrelative:RandomNumbersP21\\RandomNumbersP21.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RandomNumbersP21.cpp",
+              "DocumentMoniker": "G:\\Abu-Hadhoud\\Level05\\Problem21\\RandomNumbersP21\\RandomNumbersP21\\RandomNumbersP21.cpp",
+              "RelativeDocumentMoniker": "RandomNumbersP21\\RandomNumbersP21.cpp",
+              "ToolTip": "G:\\Abu-Hadhoud\\Level05\\Problem21\\RandomNumbersP21\\RandomNumbersP21\\RandomNumbersP21.cpp",
+              "RelativeToolTip": "RandomNumbersP21\\RandomNumbersP21.cpp",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAAAIkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-23T06:38:57.466Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

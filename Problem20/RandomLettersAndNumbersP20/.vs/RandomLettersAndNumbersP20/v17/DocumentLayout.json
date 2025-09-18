@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Abu-Hadhoud\\Level05\\Problem20\\RandomLettersAndNumbersP20\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F5C58AB-F415-4759-AA41-C7513214F3F4}|RandomLettersAndNumbersP20\\RandomLettersAndNumbersP20.vcxproj|G:\\Abu-Hadhoud\\Level05\\Problem20\\RandomLettersAndNumbersP20\\RandomLettersAndNumbersP20\\RandomLettersAndNumbersP20.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1F5C58AB-F415-4759-AA41-C7513214F3F4}|RandomLettersAndNumbersP20\\RandomLettersAndNumbersP20.vcxproj|solutionrelative:RandomLettersAndNumbersP20\\RandomLettersAndNumbersP20.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RandomLettersAndNumbersP20.cpp",
+              "DocumentMoniker": "G:\\Abu-Hadhoud\\Level05\\Problem20\\RandomLettersAndNumbersP20\\RandomLettersAndNumbersP20\\RandomLettersAndNumbersP20.cpp",
+              "RelativeDocumentMoniker": "RandomLettersAndNumbersP20\\RandomLettersAndNumbersP20.cpp",
+              "ToolTip": "G:\\Abu-Hadhoud\\Level05\\Problem20\\RandomLettersAndNumbersP20\\RandomLettersAndNumbersP20\\RandomLettersAndNumbersP20.cpp",
+              "RelativeToolTip": "RandomLettersAndNumbersP20\\RandomLettersAndNumbersP20.cpp",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-11T07:44:15.402Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

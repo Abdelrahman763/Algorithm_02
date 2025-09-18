@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Abu-Hadhoud\\Level05\\Problem25\\MinRandomArrayP25\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D04F658F-44EB-4142-8825-6CA0D2A785F3}|MinRandomArrayP25\\MinRandomArrayP25.vcxproj|G:\\Abu-Hadhoud\\Level05\\Problem25\\MinRandomArrayP25\\MinRandomArrayP25\\MinRandomArrayP25.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D04F658F-44EB-4142-8825-6CA0D2A785F3}|MinRandomArrayP25\\MinRandomArrayP25.vcxproj|solutionrelative:MinRandomArrayP25\\MinRandomArrayP25.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MinRandomArrayP25.cpp",
+              "DocumentMoniker": "G:\\Abu-Hadhoud\\Level05\\Problem25\\MinRandomArrayP25\\MinRandomArrayP25\\MinRandomArrayP25.cpp",
+              "RelativeDocumentMoniker": "MinRandomArrayP25\\MinRandomArrayP25.cpp",
+              "ToolTip": "G:\\Abu-Hadhoud\\Level05\\Problem25\\MinRandomArrayP25\\MinRandomArrayP25\\MinRandomArrayP25.cpp",
+              "RelativeToolTip": "MinRandomArrayP25\\MinRandomArrayP25.cpp",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAAFcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-24T20:07:00.421Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

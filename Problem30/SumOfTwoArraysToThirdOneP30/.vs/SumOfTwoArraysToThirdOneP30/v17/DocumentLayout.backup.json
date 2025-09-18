@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Abu-Hadhoud\\Level05\\Problem30\\SumOfTwoArraysToThirdOneP30\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5E1B63C-C11C-4B4C-B6B9-FA8C3BFC682C}|SumOfTwoArraysToThirdOneP30\\SumOfTwoArraysToThirdOneP30.vcxproj|G:\\Abu-Hadhoud\\Level05\\Problem30\\SumOfTwoArraysToThirdOneP30\\SumOfTwoArraysToThirdOneP30\\SumOfTwoArraysToThirdOneP30.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C5E1B63C-C11C-4B4C-B6B9-FA8C3BFC682C}|SumOfTwoArraysToThirdOneP30\\SumOfTwoArraysToThirdOneP30.vcxproj|solutionrelative:SumOfTwoArraysToThirdOneP30\\SumOfTwoArraysToThirdOneP30.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SumOfTwoArraysToThirdOneP30.cpp",
+              "DocumentMoniker": "G:\\Abu-Hadhoud\\Level05\\Problem30\\SumOfTwoArraysToThirdOneP30\\SumOfTwoArraysToThirdOneP30\\SumOfTwoArraysToThirdOneP30.cpp",
+              "RelativeDocumentMoniker": "SumOfTwoArraysToThirdOneP30\\SumOfTwoArraysToThirdOneP30.cpp",
+              "ToolTip": "G:\\Abu-Hadhoud\\Level05\\Problem30\\SumOfTwoArraysToThirdOneP30\\SumOfTwoArraysToThirdOneP30\\SumOfTwoArraysToThirdOneP30.cpp",
+              "RelativeToolTip": "SumOfTwoArraysToThirdOneP30\\SumOfTwoArraysToThirdOneP30.cpp",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAswFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-03T03:41:45.794Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

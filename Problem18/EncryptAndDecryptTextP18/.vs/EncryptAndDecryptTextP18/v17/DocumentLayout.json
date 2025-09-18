@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Abu-Hadhoud\\Level05\\Problem18\\EncryptAndDecryptTextP18\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67A5F71C-132A-40FA-A338-A6E3049F3A2D}|EncryptAndDecryptTextP18\\EncryptAndDecryptTextP18.vcxproj|G:\\Abu-Hadhoud\\Level05\\Problem18\\EncryptAndDecryptTextP18\\EncryptAndDecryptTextP18\\EncryptAndDecryptTextP18.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{67A5F71C-132A-40FA-A338-A6E3049F3A2D}|EncryptAndDecryptTextP18\\EncryptAndDecryptTextP18.vcxproj|solutionrelative:EncryptAndDecryptTextP18\\EncryptAndDecryptTextP18.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EncryptAndDecryptTextP18.cpp",
+              "DocumentMoniker": "G:\\Abu-Hadhoud\\Level05\\Problem18\\EncryptAndDecryptTextP18\\EncryptAndDecryptTextP18\\EncryptAndDecryptTextP18.cpp",
+              "RelativeDocumentMoniker": "EncryptAndDecryptTextP18\\EncryptAndDecryptTextP18.cpp",
+              "ToolTip": "G:\\Abu-Hadhoud\\Level05\\Problem18\\EncryptAndDecryptTextP18\\EncryptAndDecryptTextP18\\EncryptAndDecryptTextP18.cpp",
+              "RelativeToolTip": "EncryptAndDecryptTextP18\\EncryptAndDecryptTextP18.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-11T06:20:42.718Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

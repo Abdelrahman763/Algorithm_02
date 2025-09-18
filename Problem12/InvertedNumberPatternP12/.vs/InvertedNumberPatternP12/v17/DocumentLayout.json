@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Abu-Hadhoud\\Level05\\Problem12\\InvertedNumberPatternP12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{883E251E-AE21-4FB6-AD9B-95BE5211D22A}|InvertedNumberPatternP12\\InvertedNumberPatternP12.vcxproj|G:\\Abu-Hadhoud\\Level05\\Problem12\\InvertedNumberPatternP12\\InvertedNumberPatternP12\\InvertedNumberPatternP12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{883E251E-AE21-4FB6-AD9B-95BE5211D22A}|InvertedNumberPatternP12\\InvertedNumberPatternP12.vcxproj|solutionrelative:InvertedNumberPatternP12\\InvertedNumberPatternP12.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InvertedNumberPatternP12.cpp",
+              "DocumentMoniker": "G:\\Abu-Hadhoud\\Level05\\Problem12\\InvertedNumberPatternP12\\InvertedNumberPatternP12\\InvertedNumberPatternP12.cpp",
+              "RelativeDocumentMoniker": "InvertedNumberPatternP12\\InvertedNumberPatternP12.cpp",
+              "ToolTip": "G:\\Abu-Hadhoud\\Level05\\Problem12\\InvertedNumberPatternP12\\InvertedNumberPatternP12\\InvertedNumberPatternP12.cpp",
+              "RelativeToolTip": "InvertedNumberPatternP12\\InvertedNumberPatternP12.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-10T07:53:04.555Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

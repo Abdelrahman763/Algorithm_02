@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Abu-Hadhoud\\Level05\\Problem16\\AllWordsFromAAAToZZZP16\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E376A031-5B7B-4F05-B4FA-90AA5DAF04DC}|AllWordsFromAAAToZZZP16\\AllWordsFromAAAToZZZP16.vcxproj|G:\\Abu-Hadhoud\\Level05\\Problem16\\AllWordsFromAAAToZZZP16\\AllWordsFromAAAToZZZP16\\AllWordsFromAAAToZZZP16.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E376A031-5B7B-4F05-B4FA-90AA5DAF04DC}|AllWordsFromAAAToZZZP16\\AllWordsFromAAAToZZZP16.vcxproj|solutionrelative:AllWordsFromAAAToZZZP16\\AllWordsFromAAAToZZZP16.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AllWordsFromAAAToZZZP16.cpp",
+              "DocumentMoniker": "G:\\Abu-Hadhoud\\Level05\\Problem16\\AllWordsFromAAAToZZZP16\\AllWordsFromAAAToZZZP16\\AllWordsFromAAAToZZZP16.cpp",
+              "RelativeDocumentMoniker": "AllWordsFromAAAToZZZP16\\AllWordsFromAAAToZZZP16.cpp",
+              "ToolTip": "G:\\Abu-Hadhoud\\Level05\\Problem16\\AllWordsFromAAAToZZZP16\\AllWordsFromAAAToZZZP16\\AllWordsFromAAAToZZZP16.cpp",
+              "RelativeToolTip": "AllWordsFromAAAToZZZP16\\AllWordsFromAAAToZZZP16.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-11T04:58:10.016Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

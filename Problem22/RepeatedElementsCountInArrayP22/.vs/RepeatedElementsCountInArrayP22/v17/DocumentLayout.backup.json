@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Abu-Hadhoud\\Level05\\Problem22\\RepeatedElementsCountInArrayP22\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7474DB77-A00A-4B81-8EDE-211A06BF2C97}|RepeatedElementsCountInArrayP22\\RepeatedElementsCountInArrayP22.vcxproj|G:\\Abu-Hadhoud\\Level05\\Problem22\\RepeatedElementsCountInArrayP22\\RepeatedElementsCountInArrayP22\\RepeatedElementsCountInArrayP22.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7474DB77-A00A-4B81-8EDE-211A06BF2C97}|RepeatedElementsCountInArrayP22\\RepeatedElementsCountInArrayP22.vcxproj|solutionrelative:RepeatedElementsCountInArrayP22\\RepeatedElementsCountInArrayP22.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RepeatedElementsCountInArrayP22.cpp",
+              "DocumentMoniker": "G:\\Abu-Hadhoud\\Level05\\Problem22\\RepeatedElementsCountInArrayP22\\RepeatedElementsCountInArrayP22\\RepeatedElementsCountInArrayP22.cpp",
+              "RelativeDocumentMoniker": "RepeatedElementsCountInArrayP22\\RepeatedElementsCountInArrayP22.cpp",
+              "ToolTip": "G:\\Abu-Hadhoud\\Level05\\Problem22\\RepeatedElementsCountInArrayP22\\RepeatedElementsCountInArrayP22\\RepeatedElementsCountInArrayP22.cpp",
+              "RelativeToolTip": "RepeatedElementsCountInArrayP22\\RepeatedElementsCountInArrayP22.cpp",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAGMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-23T07:47:10.625Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

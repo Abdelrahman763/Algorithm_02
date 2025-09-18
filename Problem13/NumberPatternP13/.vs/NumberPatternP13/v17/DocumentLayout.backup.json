@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Abu-Hadhoud\\Level05\\Problem13\\NumberPatternP13\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B2962852-6E5A-48AC-B0FC-2A8500966893}|NumberPatternP13\\NumberPatternP13.vcxproj|G:\\Abu-Hadhoud\\Level05\\Problem13\\NumberPatternP13\\NumberPatternP13\\NumberPatternP13.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B2962852-6E5A-48AC-B0FC-2A8500966893}|NumberPatternP13\\NumberPatternP13.vcxproj|solutionrelative:NumberPatternP13\\NumberPatternP13.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NumberPatternP13.cpp",
+              "DocumentMoniker": "G:\\Abu-Hadhoud\\Level05\\Problem13\\NumberPatternP13\\NumberPatternP13\\NumberPatternP13.cpp",
+              "RelativeDocumentMoniker": "NumberPatternP13\\NumberPatternP13.cpp",
+              "ToolTip": "G:\\Abu-Hadhoud\\Level05\\Problem13\\NumberPatternP13\\NumberPatternP13\\NumberPatternP13.cpp*",
+              "RelativeToolTip": "NumberPatternP13\\NumberPatternP13.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-10T08:18:07.22Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

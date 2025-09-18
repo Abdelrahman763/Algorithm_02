@@ -1,0 +1,4 @@
+﻿  RandomNumbersP21.cpp
+G:\Abu-Hadhoud\Level05\Problem21\RandomNumbersP21\RandomNumbersP21\RandomNumbersP21.cpp(29,12): warning C4305: 'return': truncation from 'int' to 'char'
+G:\Abu-Hadhoud\Level05\Problem21\RandomNumbersP21\RandomNumbersP21\RandomNumbersP21.cpp(29,12): warning C4309: 'return': truncation of constant value
+  RandomNumbersP21.vcxproj -> G:\Abu-Hadhoud\Level05\Problem21\RandomNumbersP21\x64\Debug\RandomNumbersP21.exe
